@@ -1,6 +1,6 @@
-# Sonos 4 Android TV Public Information
+# Sonos 4 TV Public Information
 
-Welcome to Sonos 4 Android TV. The App is designed to work with the excellent Sonos system and be a companion (not replacement) to the official Sonos Apps. The focus is on providing media rich displays on your TV for tracks playing on your Sonos system.
+Welcome to Sonos 4 TV. The App is designed to work with the excellent Sonos system and be a companion (not replacement) to the official Sonos Apps. The focus is on providing media rich displays on your TV for tracks playing on your Sonos system.
 
 * Connection is to a single Sonos speaker (ideally the same room as the TV)
 * Usage is limited to 1 hour a day while services are monitored
