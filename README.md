@@ -1,11 +1,34 @@
+![Sonos 4 TV](images/sonos4tv-logo-small.png)
+
 # Sonos 4 TV Public Information
 
 Welcome to Sonos 4 TV. The App is designed to work with the excellent Sonos system and be a companion (not replacement) to the official Sonos Apps. The focus is on providing media rich displays on your TV for tracks playing on your Sonos system.
+
+Currently Supported on:
+* Android TV - OS version 9 (Pie) and above
+* Amazon Fire TV/Stick - [OS version 7 and above](https://developer.amazon.com/docs/fire-tv/fire-os-overview.html)
+
+![Main Menu](images/Screenshot_main-small.png)
 
 * Connection is to a single Sonos speaker (ideally the same room as the TV)
 * Usage is limited to 1 hour a day while services are monitored
 * This is a personal project used to try out Android TV development
 * More features will be added as time allows
+
+The real focus was displaying what was playing in 3 different views:
+
+_Basic display - Just reads the current playing track info from the speaker_
+
+![Basic display](images/Screenshot_Basic-small.png)
+
+_Slideshow - Will rotate through several images of the playing artist_
+
+![Slideshow](images/Screenshot_Slideshow-small.png)
+
+_Biography - Rotates through some biographies of the artist_
+
+![Biography](images/Screenshot_Biography-small.png)
+
 
 If you find a problem or have an idea please share by raising an Issue (please check if there is already one before raisng anything new)
 
