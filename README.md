@@ -1,8 +1,8 @@
-![Sonos 4 TV](images/sonos4tv-logo-small.png)
+![TVONOS](images/tvonos-logo-small.png)
 
-# Sonos 4 TV Public Information
+# TVONOS Public Information
 
-Welcome to Sonos 4 TV. The App is designed to work with the excellent Sonos system and be a companion (not replacement) to the official Sonos Apps. The focus is on providing media rich displays on your TV for tracks playing on your Sonos system.
+Welcome to TVONOS. The App is designed to work with the excellent Sonos system and be a companion (not replacement) to the official Sonos Apps. The focus is on providing media rich displays on your TV for tracks playing on your Sonos system.
 
 Currently Supported on:
 * Android TV - OS version 9 (Pie) and above
