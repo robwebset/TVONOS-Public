@@ -8,6 +8,11 @@ Currently Supported on:
 * Android TV - OS version 9 (Pie) and above
 * Amazon Fire TV/Stick - [OS version 7 and above](https://developer.amazon.com/docs/fire-tv/fire-os-overview.html)
 
+To follow the status of TVONOS or to discuss any issues or ideas you can visit:
+https://www.reddit.com/r/TVONOS/
+
+Alternatively, if you find a problem or have an idea please share by raising an Issue (please check if there is already one before raisng anything new)
+
 ![Main Menu](images/Screenshot_main-small.png)
 
 * Connection is to a single Sonos speaker (ideally the same room as the TV)
@@ -29,7 +34,5 @@ _Biography - Rotates through some biographies of the artist_
 
 ![Biography](images/Screenshot_Biography-small.png)
 
-
-If you find a problem or have an idea please share by raising an Issue (please check if there is already one before raisng anything new)
 
 If you are interested in translating the App to a non-English language then please raise an issue and I will look at making the required files available. (As the app develops there will be more text strings to update, so please keep that in mind before volunteering - all translations offered are on a free of charge and no commitment agreement)
