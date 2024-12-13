@@ -8,6 +8,10 @@ Currently Supported on:
 * Android TV - OS version 9 (Pie) and above
 * Amazon Fire TV/Stick - [OS version 7 and above](https://developer.amazon.com/docs/fire-tv/fire-os-overview.html)
 
+Downloadable onto your device from:
+* Google Play: https://play.google.com/store/apps/details?id=com.deadlyduck.tvonos
+* Amazon Store: https://www.amazon.com/gp/product/B0DJK3KKW8
+
 To follow the status of TVONOS or to discuss any issues or ideas you can visit:
 https://www.reddit.com/r/TVONOS/
 
@@ -35,14 +39,14 @@ _Biography - Rotates through some biographies of the artist_
 
 There is some limited support for managing what is playing:
 
-![Queue](images/5.Queue-small.png)
-
 _Queue - View and edit the current Sonos queue_
 
-![Playlist](images/6.Playlist-small.png)
+![Queue](images/5.Queue-small.png)
 
 _Playlist - View and play a pre-configures Sonos Playlist_
 
-![Favorites](images/7.Favorites-small.png)
+![Playlist](images/6.Playlist-small.png)
 
 _Favorites - View and play items in your Sonos Favorites_
+
+![Favorites](images/7.Favorites-small.png)
