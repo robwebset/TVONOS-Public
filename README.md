@@ -13,26 +13,36 @@ https://www.reddit.com/r/TVONOS/
 
 Alternatively, if you find a problem or have an idea please share by raising an Issue (please check if there is already one before raisng anything new)
 
-![Main Menu](images/Screenshot_main-small.png)
+![Main Menu](images/1.MainMenu-small.png)
 
 * Connection is to a single Sonos speaker (ideally the same room as the TV)
-* Usage is limited to 1 hour a day while services are monitored
-* This is a personal project used to try out Android TV development
+* Usage may be limited to 1 hour a day while services are monitored
 * More features will be added as time allows
 
 The real focus was displaying what was playing in 3 different views:
 
 _Basic display - Just reads the current playing track info from the speaker_
 
-![Basic display](images/Screenshot_Basic-small.png)
+![Basic display](images/2.Basic-small.png)
 
 _Slideshow - Will rotate through several images of the playing artist_
 
-![Slideshow](images/Screenshot_Slideshow-small.png)
+![Slideshow](images/3.Slideshow-small.png)
 
 _Biography - Rotates through some biographies of the artist_
 
-![Biography](images/Screenshot_Biography-small.png)
+![Biography](images/4.Bio-small.png)
 
+There is some limited support for managing what is playing:
 
-If you are interested in translating the App to a non-English language then please raise an issue and I will look at making the required files available. (As the app develops there will be more text strings to update, so please keep that in mind before volunteering - all translations offered are on a free of charge and no commitment agreement)
+![Queue](images/5.Queue-small.png)
+
+_Queue - View and edit the current Sonos queue_
+
+![Playlist](images/6.Playlist-small.png)
+
+_Playlist - View and play a pre-configures Sonos Playlist_
+
+![Favorites](images/7.Favorites-small.png)
+
+_Favorites - View and play items in your Sonos Favorites_
