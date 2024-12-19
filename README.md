@@ -37,6 +37,10 @@ _Biography - Rotates through some biographies of the artist_
 
 ![Biography](images/4.Bio-small.png)
 
+_Lyrics - Shows the lyrics for the track that is currently playing_
+
+![Lyrics](images/8.lyrics.png)
+
 There is some limited support for managing what is playing:
 
 _Queue - View and edit the current Sonos queue_
