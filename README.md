@@ -10,47 +10,9 @@ Currently Supported on:
 
 Downloadable onto your device from:
 * Google Play: https://play.google.com/store/apps/details?id=com.deadlyduck.tvonos
-* Amazon Store: https://www.amazon.com/gp/product/B0DJK3KKW8
+* Amazon Store: http://www.amazon.com/gp/mas/dl/android?p=com.deadlyduck.tvonos
 
 To follow the status of TVONOS or to discuss any issues or ideas you can visit:
 https://www.reddit.com/r/TVONOS/
 
 Alternatively, if you find a problem or have an idea please share by raising an Issue (please check if there is already one before raisng anything new)
-
-![Main Menu](images/1.MainMenu-small.png)
-
-* Connection is to a single Sonos speaker (ideally the same room as the TV)
-* Usage may be limited to 1 hour a day while services are monitored
-* More features will be added as time allows
-
-The real focus was displaying what was playing in 3 different views:
-
-_Basic display - Just reads the current playing track info from the speaker_
-
-![Basic display](images/2.Basic-small.png)
-
-_Slideshow - Will rotate through several images of the playing artist_
-
-![Slideshow](images/3.Slideshow-small.png)
-
-_Biography - Rotates through some biographies of the artist_
-
-![Biography](images/4.Bio-small.png)
-
-_Lyrics - Shows the lyrics for the track that is currently playing_
-
-![Lyrics](images/8.lyrics.png)
-
-There is some limited support for managing what is playing:
-
-_Queue - View and edit the current Sonos queue_
-
-![Queue](images/5.Queue-small.png)
-
-_Playlist - View and play a pre-configures Sonos Playlist_
-
-![Playlist](images/6.Playlist-small.png)
-
-_Favorites - View and play items in your Sonos Favorites_
-
-![Favorites](images/7.Favorites-small.png)
